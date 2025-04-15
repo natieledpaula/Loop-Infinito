@@ -10,3 +10,6 @@ Loops infinitos podem ser intencionais, como em programas que precisam rodar con
 - ***HTML***  linguagem de marcação web;
 - ***CSS*** Linguagem para estilizar a página 
 - ***JavaScript*** é a linguagem para adicionar lógica ao site e manipular eventos junto com HTML.
+
+## 📸 Prévia do Projeto
+(https://natieledpaula.github.io/Loop-Infinito/)
